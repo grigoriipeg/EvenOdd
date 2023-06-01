@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Even-odd</string>
+    <string name="zero">0</string>
+    <string name="start">Старт</string>
+    <string name="even">Чёт</string>
+    <string name="odd">Нечёт</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
